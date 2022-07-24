@@ -1,2 +1,2 @@
 # Collections-CSHARP
-A collections project, with abstractions of varius representations
+A collections project, with abstractions of varius representations in C#
